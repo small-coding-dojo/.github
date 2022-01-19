@@ -5,3 +5,9 @@ We are a 7 person group from different companies striving to become better softw
 Every week we meet for a 90 minute coding dojo. We deliberately practice and develop our skills further by solving code katas and discussing design aspects as a mob team.
 
 The overall purpose of the "small-coding-dojo" organization is to learn, to grow individually and to support other software developers and architects.
+
+## Licenses Used in Our Projects
+
+We select one license per project repository. Usually we use The Unlicense. When we fork a repository we comply with the license of the original project.
+
+Note that we have made this agreement recently. We are currently creating LICENSE files in each repository. This will take some time, because we need to select the proper licenses.
