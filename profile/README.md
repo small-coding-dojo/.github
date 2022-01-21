@@ -6,6 +6,10 @@ Every week we meet for a 90 minute coding dojo. We deliberately practice and dev
 
 The overall purpose of the "small-coding-dojo" organization is to learn, to grow individually and to support other software developers and architects.
 
+## Thanks
+
+Many thanks to [JetBrains](https://www.jetbrains.com/?from=small-coding-dojo) who provide [Open Source Licenses](https://www.jetbrains.com/community/opensource/) for our organization ❤️.
+
 ## Licenses Used in Our Projects
 
 We select one license per project repository. Usually we use The Unlicense. When we fork a repository we comply with the license of the original project.
