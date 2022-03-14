@@ -1,6 +1,6 @@
 ## About the Small Coding Dojo
 
-We are a 7 person group from different companies striving to become better software developers and architects. Aged from mid-twenty to mid-fifty our skill levels range from novice developer to consultants with decades of experience.
+We are a group from different companies striving to become better software developers and architects. Aged from mid-twenty to mid-fifty our skill levels range from novice developer to consultants with decades of experience.
 
 Every week we meet for a 90 minute coding dojo. We deliberately practice and develop our skills further by solving code katas and discussing design aspects as a mob team.
 
